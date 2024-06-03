@@ -1,4 +1,10 @@
 # Computer Engineering Student
+### Summary 
+Second-year computer engineering student at ISIM Monastir with
+two years of experience in university projects. Passionate about
+technology, motivated, and eager to acquire new skills. Ready to
+apply my commitment and enthusiasm within a professional
+team to make a significant contribution to innovative projects.
 ### Education : 
 Engineering Cycle in Computer Science, Integrated Preparatory Cycle,Baccalaureate in Mathematical
 Sciences
