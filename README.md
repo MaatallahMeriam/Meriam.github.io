@@ -6,8 +6,9 @@ technology, motivated, and eager to acquire new skills. Ready to
 apply my commitment and enthusiasm within a professional
 team to make a significant contribution to innovative projects.
 ### Education : 
-Engineering Cycle in Computer Science, Integrated Preparatory Cycle,Baccalaureate in Mathematical
-Sciences
+- Engineering Cycle in Computer Science : 2023 - Present
+- Integrated Preparatory Cycle : 2020 - 2022 
+- Baccalaureate in Mathematical Sciences : 2020
 
 ### Internship Experience
 At AFRICA TRANSIT MAGASIN CALE - ATMC Tunisie : 
